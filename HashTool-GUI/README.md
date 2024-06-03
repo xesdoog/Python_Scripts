@@ -1,6 +1,7 @@
 # HashTool GUI
 
 [HashTool](https://github.com/xesdoog/Python_Scripts/tree/main/HashTool) but with a GUI.
+Currently broken.
 
 ## Requirements:
 
