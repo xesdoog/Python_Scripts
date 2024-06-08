@@ -1,0 +1,12 @@
+[submodule "PyDDoS"]
+	path = PyDDoS
+	url = https://github.com/xesdoog/PyDDoS
+[submodule "YouTube-Downloader"]
+	path = YouTube-Downloader
+	url = https://github.com/xesdoog/YouTube-Downloader
+[submodule "url_surfer"]
+	path = url_surfer
+	url = https://github.com/xesdoog/url_surfer
+[submodule "HashTool"]
+	path = HashTool
+	url = https://github.com/xesdoog/HashTool
