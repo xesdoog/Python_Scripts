@@ -10,3 +10,7 @@
 [submodule "HashTool"]
 	path = HashTool
 	url = https://github.com/xesdoog/HashTool
+[submodule "YMU-Updater"]
+	path = YMU-Updater
+	url = https://github.com/xesdoog/YMU-Updater
+
